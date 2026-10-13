@@ -6,9 +6,10 @@ int main()
     float average;
     int a, b, s;
 
+    printf("*********Welcome to my program********* \n");
+
     // Algorithm 1: Sum of two integers
     printf("The sum of two integers");
-    printf("*********Welcome to my program********* \n");
     printf("Enter the value of A: \n");
     scanf("%d", &a);
     printf("Enter the value of B: \n");
