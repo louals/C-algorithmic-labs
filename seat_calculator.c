@@ -6,7 +6,7 @@ int main()
     int S;
     scanf("%d", &S);
 
-    if (S < 1 || S > 300) {
+    if (S < 1 || S > 200) {
         printf("Please enter a valid Seat ! ");
     }
     else if (S % 20 == 0) { 
